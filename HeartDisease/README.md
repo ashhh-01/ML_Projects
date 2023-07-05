@@ -1,7 +1,7 @@
-<h1>Heart_Disease_pred_ML</h1>
+<h1>Heart Disease Predection</h1>
 The ML model is to predict whether the patient has heart disease or Not.
 The model is built using Sklearn library.
-The training and test data is split into <i>0.7:0.3<i>.
+The training and test data is split into <I><b>0.7</b>:<b>0.3</b><i>.
 <h2>About the Data</h2>
 The data contains 1025 rows and 14 columns. 
 There are no null values
