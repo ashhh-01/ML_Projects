@@ -1,4 +1,4 @@
-<h1>Heart_Disease_pred_ML</h1>
+<h1>Heart Disease predection</h1>
 The ML model is to predict whether the patient has heart disease or Not.
 The model is built using Sklearn library.
 The training and test data is split into <i>0.7:0.3<i>.
