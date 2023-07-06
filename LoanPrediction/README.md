@@ -7,7 +7,11 @@ Data size: 614 rows and 13 columns.
 Included Missing values.
 Included Categorical values which had to be replaced.
 <h2> Result</h2>
-Test Data Accuracy : 77.638%
+<img src="./img/Ed_Loan_status.png"><br>
+<img src="./img/Status_Loan.png"><br>
+
+
+Test Data Accuracy : 77.638%<br>
 Training Data Accuracy: 77.67%
 
 Data: <a href="https://www.kaggle.com/datasets/ninzaami/loan-predication/download?datasetVersionNumber=1">Loan Predicition</a>
