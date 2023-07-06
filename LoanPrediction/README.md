@@ -7,8 +7,8 @@ Data size: 614 rows and 13 columns.
 Included Missing values.
 Included Categorical values which had to be replaced.
 <h2> Result</h2>
-<img src="./img/Ed_Loan_status.png"><br>
-<img src="./img/Status_Loan.png"><br>
+<span><img style="width:25%"src="./img/Ed_Loan_status.png"><img style="width:25%" src="./img/Status_Loan.png"> </span>
+
 
 
 Test Data Accuracy : 77.638%<br>
